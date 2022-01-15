@@ -1,0 +1,2 @@
+TRAIN,gs://bloopervideodataset/train.csv
+TEST,gs://bloopervideodataset/test.csv
