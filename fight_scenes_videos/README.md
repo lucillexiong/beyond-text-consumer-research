@@ -1,6 +1,6 @@
 # fight_scenes_videos
 ## Content
-This dataset contains images separated into two tags - fight scenes and non fight scences.
+This dataset contains videos separated into two tags - fight scenes and non fight scences.
 It can be used in different cloud platforms as shown down below.
 To use this dataset, download the repository through the command line.
 

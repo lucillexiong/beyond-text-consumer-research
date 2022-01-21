@@ -1,6 +1,6 @@
 # blooper_videos
 ## Content
-This dataset contains images separated into two tags - bloopers and non bloopers.
+This dataset contains videos separated into two tags - bloopers and non bloopers.
 It can be used in different cloud platforms as shown down below.
 To use this dataset, download the repository through the command line.
 
